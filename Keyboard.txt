@@ -2,5 +2,5 @@ name app : Keyboard
 creator: ZTE2049
 OP: Клавиатура для быстрого ввода.
 verifing: true
-not version 
+dow: https://github.com/ivansmirnov20151-afk/ZTESHOP/blob/main/Keyboard_1.0.apk
 Version: 1.0
